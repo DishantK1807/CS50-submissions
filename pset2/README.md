@@ -1,0 +1,1 @@
+This folder contains solutions for PSet2 Harvard CS50
